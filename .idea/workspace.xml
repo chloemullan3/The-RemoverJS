@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d0db2b2-4f0a-4622-8ac3-1a7ff823c20f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/js/lib/stats.js" beforeDir="false" />
-    </list>
+    <list default="true" id="3d0db2b2-4f0a-4622-8ac3-1a7ff823c20f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +12,7 @@
     <session id="1977962823">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -169,7 +161,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543495748110" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543517828837" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -212,7 +204,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="23" width="1429" height="807" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
